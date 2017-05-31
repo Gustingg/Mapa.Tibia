@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spawns/>
+<spawns>
+  <spawn centerx="1010" centery="1772" centerz="7" radius="10"/>
+  <spawn centerx="1011" centery="1774" centerz="7" radius="10"/>
+  <spawn centerx="1010" centery="1791" centerz="7" radius="10"/>
+  <spawn centerx="981" centery="1762" centerz="8" radius="10"/>
+  <spawn centerx="985" centery="1762" centerz="8" radius="10"/>
+  <spawn centerx="979" centery="1764" centerz="8" radius="10"/>
+  <spawn centerx="1014" centery="1764" centerz="8" radius="10"/>
+  <spawn centerx="978" centery="1766" centerz="8" radius="10"/>
+  <spawn centerx="1016" centery="1766" centerz="8" radius="10"/>
+  <spawn centerx="994" centery="1767" centerz="8" radius="25"/>
+  <spawn centerx="995" centery="1767" centerz="8" radius="25"/>
+  <spawn centerx="982" centery="1768" centerz="8" radius="10"/>
+  <spawn centerx="984" centery="1768" centerz="8" radius="10"/>
+  <spawn centerx="994" centery="1768" centerz="8" radius="25"/>
+  <spawn centerx="1014" centery="1768" centerz="8" radius="10"/>
+  <spawn centerx="978" centery="1769" centerz="8" radius="10"/>
+  <spawn centerx="982" centery="1769" centerz="8" radius="10"/>
+  <spawn centerx="985" centery="1769" centerz="8" radius="10"/>
+  <spawn centerx="990" centery="1769" centerz="8" radius="25"/>
+  <spawn centerx="979" centery="1770" centerz="8" radius="10"/>
+  <spawn centerx="990" centery="1771" centerz="8" radius="10"/>
+  <spawn centerx="988" centery="1772" centerz="8" radius="10"/>
+  <spawn centerx="1014" centery="1773" centerz="8" radius="10"/>
+  <spawn centerx="1007" centery="1776" centerz="8" radius="10"/>
+  <spawn centerx="998" centery="1777" centerz="8" radius="25"/>
+  <spawn centerx="1022" centery="1780" centerz="8" radius="10"/>
+  <spawn centerx="1007" centery="1781" centerz="8" radius="10"/>
+  <spawn centerx="1022" centery="1781" centerz="8" radius="10"/>
+  <spawn centerx="1004" centery="1782" centerz="8" radius="25"/>
+  <spawn centerx="993" centery="1783" centerz="8" radius="5"/>
+  <spawn centerx="1005" centery="1783" centerz="8" radius="25"/>
+  <spawn centerx="991" centery="1784" centerz="8" radius="5"/>
+  <spawn centerx="1005" centery="1784" centerz="8" radius="10"/>
+  <spawn centerx="991" centery="1785" centerz="8" radius="10"/>
+  <spawn centerx="990" centery="1786" centerz="8" radius="10"/>
+</spawns>
