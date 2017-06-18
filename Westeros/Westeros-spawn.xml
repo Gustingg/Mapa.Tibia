@@ -70,6 +70,27 @@
 		<monster name="Demodras" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1260" centery="1700" centerz="7" radius="1" />
+	<spawn centerx="995" centery="1768" centerz="7" radius="10">
+		<monster name="Training Monk" x="-10" y="-8" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-8" y="-8" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-6" y="-8" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-4" y="-8" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-2" y="-8" z="7" spawntime="60" />
+		<monster name="Training Monk" x="0" y="-8" z="7" spawntime="1536" />
+		<monster name="Training Monk" x="2" y="-8" z="7" spawntime="1536" />
+		<monster name="Training Monk" x="4" y="-8" z="7" spawntime="1536" />
+		<monster name="Training Monk" x="6" y="-8" z="7" spawntime="1536" />
+		<monster name="Training Monk" x="8" y="-8" z="7" spawntime="1536" />
+		<monster name="The Dark Dancer" x="10" y="-7" z="7" spawntime="60" />
+		<monster name="Training Monk" x="4" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="6" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="8" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="10" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-10" y="3" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-8" y="3" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-6" y="3" z="7" spawntime="60" />
+		<monster name="Training Monk" x="-4" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="995" centery="1747" centerz="8" radius="5">
 		<monster name="Cave Rat" x="0" y="-3" z="8" spawntime="60" />
 		<monster name="Cave Rat" x="-3" y="-1" z="8" spawntime="60" />
