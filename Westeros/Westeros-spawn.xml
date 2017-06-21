@@ -70,11 +70,11 @@
 		<monster name="Demodras" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1260" centery="1700" centerz="7" radius="1" />
-	<spawn centerx="994" centery="1747" centerz="7" radius="1">
-		<npc name="helmut" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="993" centery="1747" centerz="7" radius="1">
+		<npc name="Eryn" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="998" centery="1752" centerz="7" radius="1">
-		<npc name="merchant_glut" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="998" centery="1753" centerz="7" radius="1">
+		<npc name="Riona" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="995" centery="1768" centerz="7" radius="10">
 		<monster name="Training Monk" x="-10" y="-8" z="7" spawntime="60" />
@@ -98,11 +98,11 @@
 		<monster name="Purple Butterfly" x="-7" y="5" z="7" spawntime="60" />
 		<monster name="Purple Butterfly" x="0" y="10" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1041" centery="1779" centerz="7" radius="2">
-		<npc name="bankman_billy" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="1041" centery="1780" centerz="7" radius="1">
+		<npc name="Alice" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1021" centery="1781" centerz="7" radius="1">
-		<npc name="mailman_maily" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Deruno" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="995" centery="1747" centerz="8" radius="5">
 		<monster name="Cave Rat" x="0" y="-3" z="8" spawntime="60" />
