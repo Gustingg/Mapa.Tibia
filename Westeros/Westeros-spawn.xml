@@ -1,5 +1,30 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="1157" centery="1913" centerz="0" radius="5">
+		<monster name="Rift Brood" x="-2" y="-4" z="0" spawntime="60" />
+		<monster name="Energy Overlord" x="0" y="-4" z="0" spawntime="60" />
+		<monster name="Raging Mage" x="-4" y="-2" z="0" spawntime="60" />
+		<monster name="Raging Mage" x="2" y="-2" z="0" spawntime="60" />
+		<monster name="Energy Overlord" x="-5" y="-1" z="0" spawntime="60" />
+		<monster name="Rift Brood" x="3" y="-1" z="0" spawntime="60" />
+		<monster name="Energy Overlord" x="-2" y="0" z="0" spawntime="60" />
+		<monster name="Raging Mage" x="-2" y="1" z="0" spawntime="60" />
+		<monster name="Energy Overlord" x="0" y="1" z="0" spawntime="60" />
+		<monster name="Energy Overlord" x="3" y="1" z="0" spawntime="60" />
+		<monster name="Rift Brood" x="-2" y="3" z="0" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1912" centerz="1" radius="5">
+		<monster name="Rift Brood" x="-1" y="-3" z="1" spawntime="60" />
+		<monster name="Raging Mage" x="-3" y="-2" z="1" spawntime="60" />
+		<monster name="Overcharged Energy Elemental" x="2" y="-1" z="1" spawntime="60" />
+		<monster name="Rift Brood" x="-3" y="0" z="1" spawntime="60" />
+		<monster name="Raging Mage" x="-2" y="0" z="1" spawntime="60" />
+		<monster name="Rift Brood" x="4" y="0" z="1" spawntime="60" />
+		<monster name="Raging Mage" x="3" y="1" z="1" spawntime="60" />
+		<monster name="Overcharged Energy Elemental" x="-3" y="2" z="1" spawntime="60" />
+		<monster name="Overcharged Energy Elemental" x="2" y="3" z="1" spawntime="60" />
+		<monster name="Rift Brood" x="-1" y="4" z="1" spawntime="60" />
+	</spawn>
 	<spawn centerx="1274" centery="1676" centerz="2" radius="5">
 		<monster name="Dragon Lord" x="-5" y="-3" z="2" spawntime="60" />
 		<monster name="Dragon Lord" x="-3" y="-2" z="2" spawntime="60" />
@@ -20,6 +45,15 @@
 		<monster name="Dragon Lord" x="-7" y="5" z="2" spawntime="60" />
 		<monster name="Dragon Lord" x="-11" y="7" z="2" spawntime="60" />
 	</spawn>
+	<spawn centerx="1156" centery="1912" centerz="2" radius="5">
+		<monster name="Overcharged Energy Elemental" x="2" y="-2" z="2" spawntime="60" />
+		<monster name="Overcharged Energy Elemental" x="-4" y="-1" z="2" spawntime="60" />
+		<monster name="Energy Elemental" x="4" y="-1" z="2" spawntime="60" />
+		<monster name="Raging Mage" x="1" y="0" z="2" spawntime="60" />
+		<monster name="Energy Elemental" x="-2" y="1" z="2" spawntime="60" />
+		<monster name="Overcharged Energy Elemental" x="-1" y="1" z="2" spawntime="60" />
+		<monster name="Overcharged Energy Elemental" x="1" y="3" z="2" spawntime="60" />
+	</spawn>
 	<spawn centerx="1273" centery="1675" centerz="3" radius="5">
 		<monster name="Dragon" x="-2" y="1" z="3" spawntime="60" />
 	</spawn>
@@ -37,6 +71,16 @@
 		<monster name="Dragon Lord" x="-6" y="2" z="3" spawntime="60" />
 		<monster name="Dragon Lord" x="-12" y="3" z="3" spawntime="60" />
 		<monster name="Demodras" x="-8" y="5" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1912" centerz="3" radius="5">
+		<monster name="Energy Elemental" x="-1" y="-3" z="3" spawntime="60" />
+		<monster name="Dark Magician" x="3" y="-2" z="3" spawntime="60" />
+		<monster name="Energy Elemental" x="-3" y="-1" z="3" spawntime="60" />
+		<monster name="Energy Elemental" x="1" y="0" z="3" spawntime="60" />
+		<monster name="Energy Elemental" x="-2" y="1" z="3" spawntime="60" />
+		<monster name="Energy Elemental" x="4" y="1" z="3" spawntime="60" />
+		<monster name="Energy Elemental" x="-1" y="3" z="3" spawntime="60" />
+		<monster name="Energy Elemental" x="2" y="3" z="3" spawntime="60" />
 	</spawn>
 	<spawn centerx="1273" centery="1675" centerz="4" radius="5">
 		<monster name="Dragon" x="0" y="2" z="4" spawntime="60" />
