@@ -110,6 +110,24 @@
 		<monster name="Dragon" x="15" y="7" z="5" spawntime="60" />
 		<monster name="Dragon" x="-8" y="9" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="848" centery="1219" centerz="7" radius="15" />
+	<spawn centerx="894" centery="1235" centerz="7" radius="30">
+		<monster name="The Plasmother" x="-10" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="955" centery="1235" centerz="7" radius="30" />
+	<spawn centerx="848" centery="1250" centerz="7" radius="15" />
+	<spawn centerx="833" centery="1296" centerz="7" radius="30" />
+	<spawn centerx="894" centery="1296" centerz="7" radius="30" />
+	<spawn centerx="955" centery="1296" centerz="7" radius="30" />
+	<spawn centerx="786" centery="1303" centerz="7" radius="15" />
+	<spawn centerx="786" centery="1338" centerz="7" radius="15" />
+	<spawn centerx="833" centery="1357" centerz="7" radius="30" />
+	<spawn centerx="894" centery="1357" centerz="7" radius="30" />
+	<spawn centerx="785" centery="1383" centerz="7" radius="15" />
+	<spawn centerx="831" centery="1403" centerz="7" radius="15" />
+	<spawn centerx="862" centery="1403" centerz="7" radius="15" />
+	<spawn centerx="893" centery="1403" centerz="7" radius="15" />
+	<spawn centerx="924" centery="1403" centerz="7" radius="15" />
 	<spawn centerx="1326" centery="1678" centerz="7" radius="5">
 		<monster name="Demodras" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
